@@ -1,6 +1,6 @@
-# Eleventastic
+# Credits
 
-A simple Eleventy Starter Kit, my base for all new 11ty projects. ([Demo Site](https://eleventastic.netlify.com))
+I used this Eleventy Starter Kit for this project: ([Demo Site](https://eleventastic.netlify.com))
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f78ec52d-8328-4e40-b6da-a0f9164e80d1/deploy-status)](https://app.netlify.com/sites/eleventastic/deploys)
 
@@ -48,10 +48,3 @@ For example, if you have a `github.svg` file in that folder, you can display it 
 
 Currently, critical CSS will only be inlined in the head of the homepage. This is done by using the [critical](https://github.com/addyosmani/critical) package in an automatic transform.
 
-## Credits
-
-My heartfelt thanks to these people, whom I shamelessly copied ideas from:
-
-* Phil Hawksworth: [EleventyOne](https://github.com/philhawksworth/eleventyone)
-* Mike Riethmuller: [Supermaya](https://github.com/MadeByMike/supermaya)
-* Zach Leatherman: [zachleat.com](https://github.com/zachleat/zachleat.com)
