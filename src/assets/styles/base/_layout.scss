@@ -2,6 +2,7 @@
 
 body {
     overflow-x: hidden;
+    color: #5f4845;
 }
 
 .layout {
@@ -10,6 +11,7 @@ body {
     min-height: 100%;
     min-height: 100vh;
     position: relative;
+    background: linear-gradient(20deg, #96c0b7, #d4dfc7, #fef6c9);
 
     .header,
     .footer {
@@ -35,4 +37,10 @@ body {
     margin-left: auto;
     margin-right: auto;
     max-width: $container-max-width;
+}
+
+
+.logo {
+    width:100px;
+    height:100px;
 }

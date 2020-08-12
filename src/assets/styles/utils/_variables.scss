@@ -34,16 +34,20 @@ $gray: #818a91;
 $gray-light: #eceeef;
 $gray-lightest: #f7f7f9;
 
-// Brand Colors
-
-$brand-red: #fc6767;
+// Brand Color Palette
+$brand-darkest: #181211;
+$brand-darker: #5f4845;
+$brand-dark: #878e88;
+$brand-light: #96c0b7;
+$brand-lighter: #d4dfc7;
+$brand-lightest: #fef6c9;
 
 // Color Mappings
 
 $bg-color: #fff;
 $text-color: $gray-darkest;
-$brand-color-primary: $brand-red;
-$brand-color-primary-offset: darken($brand-red, 6%);
+$brand-color-primary: $brand-darker;
+$brand-color-primary-offset: darken($brand-darker, 6%);
 
 // Typography
 //
